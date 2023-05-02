@@ -1,0 +1,175 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    }
+    
+    header {
+    background-color: #ffa500;
+    color: #fff;
+    padding: 20px;
+    }
+    
+    nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    
+    nav li {
+    display: inline-block;
+    margin: 0 20px;
+    }
+    
+    nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    }
+    
+    nav a:hover {
+    color: #000;
+    }
+    
+    main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    }
+    
+    h1 {
+    font-size: 40px;
+    }
+    
+    section {
+    margin-bottom: 40px;
+    }
+    
+    img {
+    max-width: 100%;
+    }
+    
+    p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+    }
+    
+    ul {
+    margin-bottom: 20px;
+    }
+    
+    footer {
+    background-color: #9e76ed;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    }
+    
+    footer a {
+    color: #fff;
+    text-decoration: none;
+    }
+    
+    footer a:hover {
+    color: #ffa500;
+    }
+
+    .table1 {
+        background-color: lightgray;
+        border-collapse: collapse;
+        width: 50%;
+        margin: auto;
+    }
+    
+    .table1 th {
+        background-color: gray;
+        color: white;
+    }
+    
+    .table1 td, .table1 th {
+        border: 1px solid black;
+        padding: 10px;
+        text-align: center;
+    }
+    
+    .table2 {
+        background-color: lightblue;
+        border-collapse: separate;
+        border-spacing: 5px;
+        width: 50%;
+        margin: auto;
+    }
+    
+    .table2 th {
+        background-color: blue;
+        color: white;
+    }
+    
+    .table2 td, .table2 th {
+        border: 2px solid black;
+        padding: 10px;
+        text-align: center;
+    }
+    
+    .table2 .center {
+        text-align: center;
+    }
+    
+    .table3 {
+        background-color: lightgreen;
+        border-collapse: collapse;
+        width: 70%;
+        margin: auto;
+    }
+    
+    .table3 th {
+        background-color: green;
+        color: white;
+    }
+    
+    .table3 td, .table3 th {
+        border: 1px solid black;
+        padding: 10px;
+        text-align: center;
+    }
+    
+    .table4 {
+        background-color: lightyellow;
+        border-collapse: collapse;
+        width: 40%;
+        margin: auto;
+    }
+    
+    .table4 th {
+        background-color: yellow;
+        color: black;
+    }
+    
+    .table4 td, .table4 th {
+        border: 1px solid black;
+        padding: 10px;
+        text-align: center;
+    }
+    
+    .table5 {
+        background-color: lightpink;
+        border-collapse: collapse;
+        width: 40%;
+        margin: auto;
+    }
+    
+    .table5 th {
+        background-color: pink;
+        color: black;
+    }
+    
+    .table5 td, .table5 th {
+        border: 1px solid black;
+        padding: 10px;
+        text-align: center;
+    }
+    
